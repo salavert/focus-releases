@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Focus.app
+description: A MacOS menu application to gather your daily work in one place
+show_downloads: true
